@@ -68,12 +68,14 @@ Summary: you will receive **10% of all money** that your players put into the ga
 
 ## FAQ
 
-**What if I cash out immediately after 1 minute?**
+**Can I cash out immediately after 1 minute?**
 
-It's a valid strategy, you can do that.
+Yes, you can do that - it's a valid strategy.
 
-Please note that your investment compounds over time. So it's your decision - you can take many small bets & cash out early, or you can make a big bet & cash out later a huge sum.
+Please note that your investment compounds over time. So it's your decision - you can make many small bets & cash out early, or you can make a big bet & cash out later a huge sum.
 
-**I'd like to increase speed. Can I do it?**
+**Can I increase the game speed?**
 
-Yes, you can increase it up to 1% per second. The probability of fire stays the same, but the lightnings will happen more often.
+Yes, you can increase it up to 1% per second.
+
+Please note that the probability of fire stays the same, but the lightnings will happen more often.
