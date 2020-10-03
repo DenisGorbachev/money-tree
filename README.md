@@ -61,8 +61,10 @@ Note: your tree may catch fire. In this case, you will have 5 minutes to extingu
 
 ## Referral system
 
-* If the player signs up via your referral link, he will receive a 10% bonus anytime he wins for the first 10 rounds.
-* You will receive 10% of all investments that your players put into the game (regardless of whether he wins or loses).
+* Your referrals will receive a 10% bonus anytime they win for the first 10 rounds.
+* Your referrals will give you 10% of all seed investments they make (regardless of whether they win or lose).
+
+Summary: you will receive **10% of all money** that your players put into the game.
 
 ## FAQ
 
